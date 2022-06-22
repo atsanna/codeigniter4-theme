@@ -15,7 +15,7 @@ include_once __DIR__ . '/Config/Constants.php';
 
 class Theme
 {
-        // Return Theme Version
+    // Return Theme Version
     public function getVersion()
     {
         return THEME_VERSION;
