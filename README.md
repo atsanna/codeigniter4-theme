@@ -1,4 +1,4 @@
-# codeigniter4-spatial
+# codeigniter4-theme
 [![CodeIgniter 4.2.x](https://img.shields.io/badge/CodeIgniter-4.2.x-orange.svg)](https://codeigniter.com/)
 [![Unit Tests](https://github.com/atsanna/codeigniter4-theme/workflows/PHPUnit/badge.svg)](https://github.com/atsanna/codeigniter4-theme/actions/workflows/phpunit.yml)
 [![Static Analysis](https://github.com/atsanna/codeigniter4-theme/workflows/PHPStan/badge.svg)](https://github.com/atsanna/codeigniter4-theme/actions/workflows/phpstan.yml)
